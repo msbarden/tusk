@@ -6,6 +6,7 @@ Chicken
 Pasta
 Meat
 
-
+Beans
+Pizza
 
 thank you :)
